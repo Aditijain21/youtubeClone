@@ -1,0 +1,28 @@
+
+  .thumb-container{
+    width: 100%;
+    
+  }
+  .thumb-pic{
+    width: 100%;
+    border-radius: 7px;
+  }
+  .video-description{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+  }
+  .prof-pic{
+    width: 90%;
+    padding: auto;
+    border-radius: 50%;
+  
+  }
+  .text-container{
+    display: flex;
+    flex-direction: column;
+    row-gap: 4px;
+  
+  }
+  .title-text{
+    flex:1;
+  }
